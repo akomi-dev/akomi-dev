@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingSummit
 - 👀 I’m interested in anime/manga, programming, and gaming.
 - 🌱 I’m currently learning HTML, CSS, JS, and PY.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... (not at the moment)
 - 📫 How to reach me on discord: King ( キング )#0001
 
 <!---
