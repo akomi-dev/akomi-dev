@@ -1,10 +1,6 @@
 <h1 align="center"> Hello, I am Summit </h1>
 
-<h2 align="center"> Welcome to my page </h2>
-
-<h2 align="center"> Have a look around </h2>
-
-<br>
+<h2 align="center"> Welcome to my page <br> Have a look around </h2>
 
 #### - 👀 I’m interested in `anime/manga, programming, and gaming.`
 
