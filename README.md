@@ -24,6 +24,8 @@
 
 <h6 align="center"> I DO NOT main CSS </h6>
 
+![Black Clover](https://pbs.twimg.com/media/EcxVgdvU8AACkTL?format=jpg&name=large)
+
 <!-- <img scr= "./black_clover_banner.jpg" width="250"> -->
 
 <!--- Source of banner: https://pbs.twimg.com/media/EcxVgdvU8AACkTL?format=jpg&name=large --->
