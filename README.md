@@ -19,14 +19,14 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kingSummit&show_icons=true&include_all_commits=true&theme=omni&custom_title=%E4%BF%BA%E3%81%AEGitHub%20Stats&count_private=true&bg_color=ff87e5&title_color=994887&border_radius=40" height="150"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kingSummit&show_icons=true&include_all_commits=true&theme=omni&custom_title=%E4%BF%BA%E3%81%AEGitHub%20Stats&count_private=true&bg_color=ff87e5&title_color=994887&border_radius=40" height="150"/></a>
 </p>
-<br>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchimakiKasura&layout=compact&theme=omni&bg_color=ff87e5&title_color=994887&border_radius=40" height="100"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingSummit&layout=compact&theme=omni&bg_color=ff87e5&title_color=994887&border_radius=40" height="100"/></a>
 </p>
-<br>
+
+<h6 align="center"> I DO NOT main CSS </h6>
 
 <!---
 kingSummit/kingSummit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
