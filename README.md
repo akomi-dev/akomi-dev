@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I am Summit </h1>
+<h1 align="center"> Hello, I am Summit! </h1>
 
 <h2 align="center"> Welcome to my page <br> Have a look around </h2>
 
@@ -8,7 +8,7 @@
 
 #### - 💞️ I’m looking to collaborate on ... `(not at the moment)`
 
-#### - 📫 How to reach me: `discord: King ( キング )#0001 anilist: Summit`
+#### - 📫 How to reach me: `discord:` [King](https://discordapp.com/users/465709255974977546/) || `anilist:` [Summit](https://anilist.co/user/Summit/)
 
 #### - 🤳 I made a website for beginner anime watchers. <https://anime-recommendations.000webhostapp.com/>
 
