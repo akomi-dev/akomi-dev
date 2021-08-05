@@ -26,10 +26,6 @@
 
 ![Black Clover](https://pbs.twimg.com/media/EcxVgdvU8AACkTL?format=jpg&name=large)
 
-<!-- <img scr= "./black_clover_banner.jpg" width="250"> -->
-
-<!--- Source of banner: https://pbs.twimg.com/media/EcxVgdvU8AACkTL?format=jpg&name=large --->
-
 <!---
 kingSummit/kingSummit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
