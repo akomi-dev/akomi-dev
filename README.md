@@ -26,6 +26,8 @@
 
 ![Black Clover](https://pbs.twimg.com/media/EcxVgdvU8AACkTL?format=jpg&name=large)
 
+<h4 align="center"> While I am not the best programmer to live, I do make sure to surpass my limits on the project that I work on! </h4>
+
 <!---
 kingSummit/kingSummit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
