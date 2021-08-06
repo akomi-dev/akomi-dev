@@ -10,7 +10,7 @@
 
 #### - 📫 How to reach me: `discord:` [King](https://discordapp.com/users/465709255974977546/) || `anilist:` [Summit](https://anilist.co/user/Summit/)
 
-#### - 🤳 I made a website for beginner anime watchers. <https://anime-recommendations.000webhostapp.com/>
+#### - 🤳 I made a website for [Beginner Anime Watchers](https://anime-recommendations.000webhostapp.com/)
 
 <br>
 
