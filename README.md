@@ -15,11 +15,11 @@
 <br>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kingSummit&show_icons=true&include_all_commits=true&theme=omni&custom_title=Summit's%20Github%20Stats&count_private=true&bg_color=&title_color=fff&border_radius=40" height="150"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Akuma-sama&show_icons=true&include_all_commits=true&theme=omni&custom_title=Akuma's%20Github%20Stats&count_private=true&bg_color=&title_color=fff&border_radius=40" height="150"/></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingSummit&layout=compact&theme=omni&bg_color=&title_color=fff&border_radius=40" height="100"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akuma-sama&layout=compact&theme=omni&bg_color=&title_color=fff&border_radius=40" height="100"/></a>
 </p>
 
 ![Black Clover](https://pbs.twimg.com/media/EcxVgdvU8AACkTL?format=jpg&name=large)
