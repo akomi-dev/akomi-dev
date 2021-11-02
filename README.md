@@ -4,7 +4,7 @@
 
 #### - 👀 I’m interested in `anime/manga, programming, and gaming.`
 
-#### - 🌱 I’m currently learning `HTML, CSS, JS, and PY.`
+#### - 🌱 I’m currently learning `HTML, CSS, JS, C#, and PY.`
 
 #### - 💞️ I’m looking to collaborate on ... `(not at the moment)`
 
