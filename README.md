@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I am Summit! </h1>
+<h1 align="center"> Hello, I am Akomi! </h1>
 
 <h2 align="center"> Welcome to my page <br> Have a look around </h2>
 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akuma-sama&layout=compact&theme=omni&bg_color=&title_color=fff&border_radius=40" height="100"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akuma-sama&layout=compact&theme=omni&bg_color=&title_color=fff&border_radius=40" height="150"/></a>
 </p>
 
 ![Black Clover](https://pbs.twimg.com/media/EcxVgdvU8AACkTL?format=jpg&name=large)
@@ -34,7 +34,7 @@
     </a>
 </p>
 
-<!---
+<!-- -
 kingSummit/kingSummit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+- -->
