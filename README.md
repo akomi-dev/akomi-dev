@@ -10,7 +10,7 @@
 
 #### - 📫 How to reach me: `discord:` [King](https://discordapp.com/users/465709255974977546/) || `anilist:` [Summit](https://anilist.co/user/Summit/)
 
-#### - 🤳 I made a website for [Beginner Anime Watchers](https://akuma-sama.github.io/anime-for-beginners/)
+#### - 🤳 I made a website for [Beginner Anime Watchers](https://Akomi-dev.github.io/anime-for-beginners/)
 
 <br>
 
