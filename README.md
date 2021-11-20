@@ -2,13 +2,13 @@
 
 <h2 align="center"> Welcome to my page <br> Have a look around </h2>
 
-#### - 👀 I’m interested in `anime/manga, programming, and gaming.`
+#### - 👀 I’m interested in `anime/manga, programming, airsoft, and gaming.`
 
 #### - 🌱 I’m currently learning `HTML, CSS, JS, C#, and PY.`
 
 #### - 💞️ I’m looking to collaborate on ... `(not at the moment)`
 
-#### - 📫 How to reach me: `discord:` [King](https://discordapp.com/users/465709255974977546/) || `anilist:` [Summit](https://anilist.co/user/Summit/)
+#### - 📫 How to reach me: `discord:` [Akomi](https://discordapp.com/users/465709255974977546/) || `anilist:` [Summit](https://anilist.co/user/Summit/)
 
 #### - 🤳 I made a website for [Beginner Anime Watchers](https://Akomi-dev.github.io/anime-for-beginners/)
 
