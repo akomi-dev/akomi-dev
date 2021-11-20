@@ -8,18 +8,18 @@
 
 #### - 💞️ I’m looking to collaborate on ... `(not at the moment)`
 
-#### - 📫 How to reach me: `discord:` [Akomi](https://discordapp.com/users/465709255974977546/) || `anilist:` [Summit](https://anilist.co/user/Summit/)
+#### - 📫 How to reach me: `discord:` [Akomi](https://discordapp.com/users/465709255974977546/) || `anilist:` [Summit](https://anilist.co/user/Summit/) || `MAL:` [Akomi-dev](https://myanimelist.net/profile/Akomi-dev)
 
-#### - 🤳 I made a website for [Beginner Anime Watchers](https://Akomi-dev.github.io/anime-for-beginners/)
+#### - 🤳 I made a website for [Beginner Anime Watchers](https://akomi-dev.github.io/anime-for-beginners/)
 
 <br>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Akuma-sama&show_icons=true&include_all_commits=true&theme=omni&custom_title=Akuma's%20Github%20Stats&count_private=true&bg_color=&title_color=fff&border_radius=40" height="150"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=akomi-dev&show_icons=true&include_all_commits=true&theme=omni&custom_title=Akomi's%20Github%20Stats&count_private=true&bg_color=&title_color=fff&border_radius=40" height="150"/></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akuma-sama&layout=compact&theme=omni&bg_color=&title_color=fff&border_radius=40" height="150"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akomi-dev&layout=compact&theme=omni&bg_color=&title_color=fff&border_radius=40" height="150"/></a>
 </p>
 
 ![Black Clover](https://pbs.twimg.com/media/EcxVgdvU8AACkTL?format=jpg&name=large)
