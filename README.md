@@ -9,7 +9,7 @@
 #### - 📫 How to reach me: `Discord:` [Akomi](https://discordapp.com/users/465709255974977546/) || `Anilist:` [Summit](https://anilist.co/user/Summit/)
 
 ___
-<p align="center">I would say that I am sort of a junior dev. I have expierence in a few programming languages. This inculdes JS, Node.js, PY, C#, and HTML/CSS. If you would like to check out some of my projects, check my Github out! I am improving everyday and prgramming is my passion. My dream job is to work at a big company like Google, Amazon, Microsoft, etc... as a developer. If you have any questions, please contact me! I am always open to learn!</p>
+<p align="center">I would say that I am sort of a junior dev. I have expierence in a few programming languages. This inculdes JS, Node.js, PY, C#, and HTML/CSS. If you would like to check out some of my projects, check my repos out! I am improving everyday and prgramming is my passion. My dream job is to work at a big company like Google, Amazon, Microsoft, etc... as a developer. If you have any questions, please contact me! I am always open to learn!</p>
 
 <p align="center">I take pride in what ever I create. I attempt to pass my limits of knowledge and always improve on what I write. If anyone points out issues or suggests changes that I should make in my code, I always take that into consideration and improve on my code and knowledge.</p>
 
