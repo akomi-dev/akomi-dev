@@ -8,6 +8,9 @@
 
 #### - 📫 How to reach me: `Discord:` [Akomi](https://discordapp.com/users/465709255974977546/) || `Anilist:` [Summit](https://anilist.co/user/Summit/)
 
+
+<p align="center">It is time to get serious about my career.</p>
+
 ___
 <p align="center">I would say that I am sort of a junior dev. I have expierence in a few programming languages. This inculdes JS, Node.js, PY, C#, and HTML/CSS. If you would like to check out some of my projects, check my repos out! I am improving everyday and prgramming is my passion. My dream job is to work at a big company like Google, Amazon, Microsoft, etc... as a developer. If you have any questions, please contact me! I am always open to learn!</p>
 
@@ -25,7 +28,7 @@ ___
 
 ___
 
-![Black Clover](https://pbs.twimg.com/media/EcxVgdvU8AACkTL?format=jpg&name=large)
+![Black Clover](https://github.com/akomi-dev/akomi-dev/blob/main/black_clover_banner.jpg?raw=true)
 
 <h4 align="center">While I am not the best programmer to live, I do make sure to surpass my limits on all of the projects that I work on!</h4>
 
