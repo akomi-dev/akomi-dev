@@ -4,7 +4,7 @@
 
 #### - 👀 I’m interested in `anime/manga, programming, airsoft, and gaming.`
 
-#### - 🌱 I’m currently learning `C#`
+#### - 🌱 I’m currently learning `Java`
 
 #### - 📫 How to reach me: `Discord:` [Akomi](https://discordapp.com/users/465709255974977546/) || `Anilist:` [Summit](https://anilist.co/user/Summit/)
 
