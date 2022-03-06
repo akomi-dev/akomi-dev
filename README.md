@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I am Akomi! </h1>
 
-<h2 align="center"> Welcome to my page <br> Have a look around </h2>
+<h2 align="center"> Welcome to my page <br> Have a look around <br><br>いつまでも一人で</h2>
 
 #### - 👀 I’m interested in `anime/manga, programming, airsoft, and gaming.`
 
